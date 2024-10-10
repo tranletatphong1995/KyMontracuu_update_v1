@@ -1,0 +1,532 @@
+{
+  "CáchCục": [
+    {
+      "id": "16",
+      "name": "Thanh Long Đào Tẩu",
+      "components": "Ất/Tân",
+      "meaning": "Nữ lấn át nam, chuyện tốt thành xấu, tài lộc bị thất thoát.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh xuất hành, đầu tư, hôn nhân (nữ giới chủ động chia tay)."
+    },
+    {
+      "id": "17",
+      "name": "Nhật Kỳ Nhập Địa",
+      "components": "Ất/Nhâm",
+      "meaning": "Tình hình biến động, trật tự đảo lộn, thị phi, kiện tụng.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh kiện tụng, mưu sự, nên an phận."
+    },
+    {
+      "id": "18",
+      "name": "Hoa Cái Phùng Tinh",
+      "components": "Ất/Quý",
+      "meaning": "Nên ẩn mình, tránh né, chờ đợi thời cơ.",
+      "auspiciousness": "Trung Bình",
+      "applications": "Tu dưỡng, ẩn dật, tránh kiện tụng, tranh chấp."
+    },
+    {
+      "id": "19",
+      "name": "Phi Điểu Điệt Huyệt",
+      "components": "Bính/Mậu",
+      "meaning": "Đại cát, đại lợi, mọi việc suôn sẻ, như ý.",
+      "auspiciousness": "Cát",
+      "applications": "Cầu tài, cầu danh, thăng tiến, hôn nhân, xây dựng (trừ đi máy bay)."
+    },
+    {
+      "id": "20",
+      "name": "Nhật Nguyệt Binh Hành",
+      "components": "Bính/Ất",
+      "meaning": "Công việc, tình cảm đều bình ổn, có quý nhân phù trợ.",
+      "auspiciousness": "Cát",
+      "applications": "Xuất hành, cầu tài, hôn nhân, hợp tác."
+    },
+    {
+      "id": "21",
+      "name": "Nguyệt Kỳ Bội Sư",
+      "components": "Bính/Bính",
+      "meaning": "Hư hao, thất lạc, công việc rối ren, bất ổn.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cần xem xét, sắp xếp lại công việc."
+    },
+    {
+      "id": "22",
+      "name": "Tinh Kỳ Chu Tước",
+      "components": "Bính/Đinh",
+      "meaning": "Thuận lợi cho văn thư, giấy tờ, tin tức. Người bình thường được yên ổn.",
+      "auspiciousness": "Cát",
+      "applications": "Thi cử, học hành, xuất hành, cầu danh."
+    },
+    {
+      "id": "23",
+      "name": "Hỏa Bội Nhập Hình",
+      "components": "Bính/Kỷ",
+      "meaning": "Lòng dạ bất chính, gian trá, lừa dối, khó khăn, trắc trở.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh hợp tác, mưu sự, cẩn thận tiểu nhân."
+    },
+    {
+      "id": "24",
+      "name": "Tặc Tất Khứ",
+      "components": "Bính/Canh",
+      "meaning": "Việc tốt, việc xấu đều tiêu tan, trôi đi. Hao tài, tán lộc.",
+      "auspiciousness": "Hung",
+      "applications": "Nên thay đổi, di chuyển, tránh đầu tư."
+    },
+    {
+      "id": "25",
+      "name": "Nguyệt Kỳ Tương Hợp",
+      "components": "Bính/Tân",
+      "meaning": "Mưu sự dễ thành, bệnh tật không đáng ngại.",
+      "auspiciousness": "Cát",
+      "applications": "Kinh doanh, cầu tài, chữa bệnh."
+    },
+    {
+      "id": "26",
+      "name": "Hỏa Nhập Thiên Lao",
+      "components": "Bính/Nhâm",
+      "meaning": "Việc càng làm càng phức tạp, thị phi, tranh cãi, kiện tụng.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, xuất hành, kiện tụng."
+    },
+    {
+      "id": "27",
+      "name": "Nguyệt Kỳ Địa Võng",
+      "components": "Bính/Quý",
+      "meaning": "Mưu sự bị cản trở, gặp tiểu nhân hãm hại.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh xuất hành, đầu tư, nên cẩn thận."
+    },
+    {
+      "id": "28",
+      "name": "Thanh Long Chuyển Quang",
+      "components": "Đinh/Mậu",
+      "meaning": "Quý nhân thăng tiến, người thường được quyền, hưng vượng.",
+      "auspiciousness": "Cát",
+      "applications": "Cầu danh, thăng chức, xuất hành."
+    },
+    {
+      "id": "29",
+      "name": "Ngọc Nữ Kỳ Sinh",
+      "components": "Đinh/Ất",
+      "meaning": "Thuận lợi cho thi cử, học hành, thăng quan tiến chức.",
+      "auspiciousness": "Cát",
+      "applications": "Thi cử, học hành, cầu tài, cầu danh."
+    },
+    {
+      "id": "30",
+      "name": "Tinh Tùy Nguyệt Chuyển",
+      "components": "Đinh/Bính",
+      "meaning": "Quý nhân thăng chức, người thường vui hóa buồn.",
+      "auspiciousness": "Cát",
+      "applications": "Thăng tiến, đắc tài (nhưng cần thận trọng, tránh lãng phí)."
+    },
+    {
+      "id": "31",
+      "name": "Tinh Kỳ Phục Ngâm",
+      "components": "Đinh/Đinh",
+      "meaning": "Có hy vọng, có kỳ tích, mọi việc suôn sẻ, như ý.",
+      "auspiciousness": "Cát",
+      "applications": "Thi cử, học hành, xuất hành, cầu tài."
+    },
+    {
+      "id": "32",
+      "name": "Hỏa Nhập Càn Trần",
+      "components": "Đinh/Kỷ",
+      "meaning": "Thù hận, ân oán, gian trá, mờ ám, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cẩn thận tiểu nhân, đặc biệt là nữ giới."
+    },
+    {
+      "id": "33",
+      "name": "Tinh Kỳ Thụ Trở",
+      "components": "Đinh/Canh",
+      "meaning": "Mọi việc bị cản trở, tin tức bất thông, phải quay lại.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh xuất hành, đầu tư, chờ đợi thời cơ."
+    },
+    {
+      "id": "34",
+      "name": "Chu Tước Nhập Ngục",
+      "components": "Đinh/Tân",
+      "meaning": "Hy vọng thành sai lầm, người có tội được thả, quan chức mất chức.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cầu danh, thăng tiến."
+    },
+    {
+      "id": "35",
+      "name": "Kỳ Nghi Tương Hợp",
+      "components": "Đinh/Nhâm",
+      "meaning": "Kiện tụng công bằng, mọi việc được quý nhân giúp đỡ.",
+      "auspiciousness": "Cát",
+      "applications": "Kiện tụng, xuất hành, cầu tài."
+    },
+    {
+      "id": "36",
+      "name": "Chu Tước Đầu Giang",
+      "components": "Đinh/Quý",
+      "meaning": "Kiện tụng, thị phi, tin tức bặt vô âm tín, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh xuất hành, kiện tụng, nên cẩn thận giấy tờ, thông tin."
+    },
+    {
+      "id": "37",
+      "name": "Khuyển Ngộ Thanh Long",
+      "components": "Kỷ/Mậu",
+      "meaning": "Gặp quý nhân, mưu sự như ý, được người giúp đỡ.",
+      "auspiciousness": "Cát",
+      "applications": "Xuất hành, cầu tài, kiến quý nhân, hôn nhân."
+    },
+    {
+      "id": "38",
+      "name": "Địa Hộ Phùng Tinh",
+      "components": "Kỷ/Ất",
+      "meaning": "Hy vọng mong manh, không thấy lối thoát, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Nên ẩn mình, tránh mưu sự, chờ thời cơ."
+    },
+    {
+      "id": "39",
+      "name": "Hỏa Hội Địa Hộ",
+      "components": "Kỷ/Bính",
+      "meaning": "Ân oán, tranh đấu, gây tổn thương cho cả hai bên.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh kiện tụng, tranh chấp, nên hòa giải."
+    },
+    {
+      "id": "40",
+      "name": "Chu Tước Nhập Mộ",
+      "components": "Kỷ/Đinh",
+      "meaning": "Khó khăn ban đầu, sau đó sáng sủa, kiên trì sẽ thành công.",
+      "auspiciousness": "Cát",
+      "applications": "Kiện tụng (sẽ được giải oan), kinh doanh (cần kiên trì)."
+    },
+    {
+      "id": "41",
+      "name": "Địa Hộ Phùng Quỷ",
+      "components": "Kỷ/Kỷ",
+      "meaning": "U mê, ảo tưởng, việc làm bất chính, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, nên cẩn thận, kiểm tra lại kế hoạch."
+    },
+    {
+      "id": "42",
+      "name": "Hình Cách Phản Danh",
+      "components": "Kỷ/Canh",
+      "meaning": "Gặp trở ngại, không nên tiến hành, cần thay đổi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, kiện tụng, nên chờ đợi."
+    },
+    {
+      "id": "43",
+      "name": "Du Hồn Nhập Mộ",
+      "components": "Kỷ/Tân",
+      "meaning": "Gặp tiểu nhân hãm hại, chuyện mờ ám, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cẩn thận tiểu nhân, giữ bí mật."
+    },
+    {
+      "id": "44",
+      "name": "Địa Võng Cao Trương",
+      "components": "Kỷ/Nhâm",
+      "meaning": "Bị lừa dối, gian trá, tai nạn do tình cảm.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cẩn thận tình cảm, kiểm tra lại thông tin."
+    },
+    {
+      "id": "45",
+      "name": "Địa Hình Huyền Vũ",
+      "components": "Kỷ/Quý",
+      "meaning": "Bệnh tật nguy hiểm, kiện tụng, tù tội.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, xuất hành, nên cẩn thận."
+    },
+    {
+      "id": "46",
+      "name": "Thiên Ất Phục Cung",
+      "components": "Canh/Mậu",
+      "meaning": "Bất lợi, có tiểu nhân hãm hại.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh hợp tác, mở cửa hàng, nên thay đổi."
+    },
+    {
+      "id": "47",
+      "name": "Thái Bạch Phùng Tinh",
+      "components": "Canh/Ất",
+      "meaning": "Thoái cát tiến hung, bị cản trở, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, nên chờ đợi, lựa chọn thời cơ khác."
+    },
+    {
+      "id": "48",
+      "name": "Tặc Tất Lai",
+      "components": "Canh/Bính",
+      "meaning": "Cái gì cũng đến, trong hung có cát, nên chủ động.",
+      "auspiciousness": "Tùy thuộc",
+      "applications": "Kinh doanh (khách hàng đến), kiện tụng, đối thủ cạnh tranh xuất hiện."
+    },
+    {
+      "id": "49",
+      "name": "Đình Đình Chi Cách",
+      "components": "Canh/Đinh",
+      "meaning": "Chia ly, bất hòa do người thứ ba.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, nên cẩn thận trong chuyện tình cảm."
+    },
+    {
+      "id": "50",
+      "name": "Quan Phủ Hình Cách",
+      "components": "Canh/Kỷ",
+      "meaning": "Kiện tụng, tù tội, tai nạn bất ngờ.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh kiện tụng, mưu sự, nên cẩn thận."
+    },
+    {
+      "id": "51",
+      "name": "Thái Bạch Đồng Cung, Chiến Cách",
+      "components": "Canh/Canh",
+      "meaning": "Cạnh tranh gay gắt, bất hòa, khó khăn.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh hợp tác, cạnh tranh, nên nhượng bộ."
+    },
+    {
+      "id": "52",
+      "name": "Bạch Hổ Can Cách",
+      "components": "Canh/Tân",
+      "meaning": "Bất lợi, nên cẩn thận, tránh mưu sự.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh xuất hành, đầu tư, kiện tụng."
+    },
+    {
+      "id": "53",
+      "name": "Di Đãng Cách, Tiểu Cách",
+      "components": "Canh/Nhâm",
+      "meaning": "Muốn thay đổi nhưng khó thành, tâm trạng bất an.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh xuất hành, đầu tư, kiện tụng, nên chờ đợi."
+    },
+    {
+      "id": "54",
+      "name": "Đại Cách",
+      "components": "Canh/Quý",
+      "meaning": "Thay đổi lớn, có thể đi xa lập nghiệp.",
+      "auspiciousness": "Tùy thuộc",
+      "applications": "Cát môn: Thay đổi công việc tốt đẹp. Hung môn: Bệnh tật, tai nạn, sinh nở khó khăn."
+    },
+    {
+      "id": "55",
+      "name": "Khốn Long Bị Thương",
+      "components": "Tân/Mậu",
+      "meaning": "Khó khăn, trở ngại, nên an phận thủ thường.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, xuất hành, đầu tư, kiện tụng."
+    },
+    {
+      "id": "56",
+      "name": "Bạch Hổ Xương Cuồng",
+      "components": "Tân/Ất",
+      "meaning": "Đại hung, gặp tai họa, bệnh tật, phá sản.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, xuất hành, nên cẩn thận."
+    },
+    {
+      "id": "57",
+      "name": "Can Hợp Bội Thu",
+      "components": "Tân/Bính",
+      "meaning": "Hợp tác có lộn xộn, kiện tụng, tranh chấp.",
+      "auspiciousness": "Tùy thuộc",
+      "applications": "Cát môn: Hợp tác thành công. Hung môn: Kiện tụng, bất hòa."
+    },
+    {
+      "id": "58",
+      "name": "Ngục Thần Đắc Kỳ",
+      "components": "Tân/Đinh",
+      "meaning": "Trong cái rủi có cái may, được giúp đỡ, kinh doanh thuận lợi.",
+      "auspiciousness": "Cát",
+      "applications": "Kinh doanh, cầu tài, được ân xá."
+    },
+    {
+      "id": "59",
+      "name": "Nhập Ngục Tử Hình",
+      "components": "Tân/Kỷ",
+      "meaning": "Tự chuốc lấy tai họa, khó khăn, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, nên cẩn thận, kiểm tra lại kế hoạch."
+    },
+    {
+      "id": "60",
+      "name": "Bạch Hổ Xuất Lực",
+      "components": "Tân/Canh",
+      "meaning": "Tranh đấu, cạnh tranh, tai họa, nên nhượng bộ.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh kiện tụng, tranh chấp, nên hòa giải."
+    },
+    {
+      "id": "61",
+      "name": "Phục Ngâm Thiên Đình",
+      "components": "Tân/Tân",
+      "meaning": "Sai lầm lặp lại, không có kết quả, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, kiện tụng, nên xem xét, sửa chữa."
+    },
+    {
+      "id": "62",
+      "name": "Hung Xà Nhập Ngục",
+      "components": "Tân/Nhâm",
+      "meaning": "Tranh chấp, thị phi, kiện tụng, cạnh tranh.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cạnh tranh, nên nhượng bộ."
+    },
+    {
+      "id": "63",
+      "name": "Thiên Lao Hoa Cái",
+      "components": "Tân/Quý",
+      "meaning": "Khó khăn, nan giải, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, nên cẩn thận, tìm người giúp đỡ."
+    },
+    {
+      "id": "64",
+      "name": "Tiểu Xà Hóa Long",
+      "components": "Nhâm/Mậu",
+      "meaning": "Mọi việc thuận lợi, có quý nhân giúp đỡ.",
+      "auspiciousness": "Cát",
+      "applications": "Xuất hành, cầu tài, hôn nhân, sinh con."
+    },
+    {
+      "id": "65",
+      "name": "Tiểu Xà Đắc Thế",
+      "components": "Nhâm/Ất",
+      "meaning": "Trong khó khăn có hy vọng, được quý nhân giúp đỡ.",
+      "auspiciousness": "Cát",
+      "applications": "Xuất hành, cầu tài, hôn nhân, sinh con."
+    },
+    {
+      "id": "66",
+      "name": "Thủy Xà Nhập Hỏa",
+      "components": "Nhâm/Bính",
+      "meaning": "Gặp trở ngại, khó khăn, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cẩn thận, kiểm tra lại kế hoạch."
+    },
+    {
+      "id": "67",
+      "name": "Can Hợp Xà Hình",
+      "components": "Nhâm/Đinh",
+      "meaning": "Gặp phiền phức, sau đó có cơ hội giải quyết.",
+      "auspiciousness": "Tùy thuộc",
+      "applications": "Cát môn: Vượt qua khó khăn, thành công. Hung môn: Mất mát, thị phi."
+    },
+    {
+      "id": "68",
+      "name": "Phản Ngâm Xà Hình",
+      "components": "Nhâm/Kỷ",
+      "meaning": "Càng hành động càng bất lợi, nên an phận thủ thường.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, kiện tụng, nên chờ đợi."
+    },
+    {
+      "id": "69",
+      "name": "Thái Bạch Cầm Xà",
+      "components": "Nhâm/Canh",
+      "meaning": "Hòa giải, thấu hiểu, công bằng.",
+      "auspiciousness": "Cát",
+      "applications": "Kiện tụng (được giải quyết công bằng), hòa giải mâu thuẫn."
+    },
+    {
+      "id": "70",
+      "name": "Đằng Xà Tương Triền",
+      "components": "Nhâm/Tân",
+      "meaning": "Thị phi, kiện tụng, bệnh tật triền miên.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cẩn thận tiểu nhân, chữa bệnh."
+    },
+    {
+      "id": "71",
+      "name": "Thiên Ngục Tự Hình",
+      "components": "Nhâm/Nhâm",
+      "meaning": "Mọi việc hỗn loạn, khó kiểm soát, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, nên cẩn thận, kiểm tra lại nội bộ."
+    },
+    {
+      "id": "72",
+      "name": "Ấu Nữ Gian Dâm",
+      "components": "Nhâm/Quý",
+      "meaning": "Chuyện xấu, tham lam, dâm ô, bất lợi.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, cẩn thận, giữ bí mật, kiểm tra nội bộ."
+    },
+    {
+      "id": "73",
+      "name": "Thiên Ất Hội Hợp",
+      "components": "Quý/Mậu",
+      "meaning": "Tùy thuộc vào môn gặp phải.",
+      "auspiciousness": "Tùy thuộc",
+      "applications": "Cát môn: Hôn nhân, tài lộc tốt đẹp. Hung môn: Kiện tụng, thị phi, tai họa."
+    },
+    {
+      "id": "74",
+      "name": "Hoa Cái Phùng Tinh",
+      "components": "Quý/Ất",
+      "meaning": "Có tài nhưng không được trọng dụng, khó khăn.",
+      "auspiciousness": "Hung",
+      "applications": "Nên ẩn mình, chờ đợi, không nên mưu sự."
+    },
+    {
+      "id": "75",
+      "name": "Hoa Cái Bội Sư",
+      "components": "Quý/Bính",
+      "meaning": "Gặp bất lợi, cần người dẫn dắt.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh chủ động, nên tìm người giúp đỡ."
+    },
+    {
+      "id": "76",
+      "name": "Đằng Xà Yêu Kiêu",
+      "components": "Quý/Đinh",
+      "meaning": "Kiện tụng, thị phi, khó tránh.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh kiện tụng, mưu sự, nên cẩn thận."
+    },
+    {
+      "id": "77",
+      "name": "Hoa Cái Địa Hộ",
+      "components": "Quý/Kỷ",
+      "meaning": "Mọi việc không phát triển, nên ẩn mình, trốn tránh.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, nên chờ đợi, tìm nơi ẩn náu."
+    },
+    {
+      "id": "78",
+      "name": "Thái Bạch Nhập Võng",
+      "components": "Quý/Canh",
+      "meaning": "Tự chuốc lấy khó khăn, bị người phá hoại.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, đầu tư, nên cẩn thận."
+    },
+    {
+      "id": "79",
+      "name": "Võng Cái Thiên Lao",
+      "components": "Quý/Tân",
+      "meaning": "Bị oan, khó thoát tội, bệnh tật nguy hiểm.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, kiện tụng, nên cẩn thận."
+    },
+    {
+      "id": "80",
+      "name": "Phục Kiến Đằng Xà",
+      "components": "Quý/Nhâm",
+      "meaning": "Lặp lại chuyện cũ, hoặc làm việc không thể thành.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, hôn nhân (tái hôn khó có con), nên cẩn thận."
+    },
+    {
+      "id": "81",
+      "name": "Thiên Võng Tứ Trương",
+      "components": "Quý/Quý",
+      "meaning": "Bất lợi, dễ gặp tai họa, nên tránh hành động.",
+      "auspiciousness": "Hung",
+      "applications": "Tránh mưu sự, xuất hành, nên cẩn thận."
+    }
+  ]
+}
